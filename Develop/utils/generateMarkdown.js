@@ -79,7 +79,7 @@ ${data.tests}
 
 ## Questions
 If you have any questions, please contact me at ${data.email}.  
-You can view my GitHub profile at [${data.GitHub}](https://github.com/${data.GitHub}).
+You can view my GitHub profile at [${data.github}](https://github.com/${data.github}).
 `;
 }
 
